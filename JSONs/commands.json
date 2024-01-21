@@ -1,0 +1,20 @@
+{
+    "fcmds":[
+        ";ping",
+        ";urgent",
+        ";e&t",
+        ";info {department}"
+    ],
+
+    "gcmds":[
+        ";help",
+        ";ssu",
+        ";grp"
+    ],
+
+    "mcmds":[
+        ";kick {Member}",
+        ";purge {Amount}",
+        ";set-join-channel"
+    ]
+}
